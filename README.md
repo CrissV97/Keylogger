@@ -1,7 +1,7 @@
 # Keylogger
 
 *Ejemplo #1*
-<img width="1919" height="393" alt="image" src="https://github.com/user-attachments/assets/18382409-53c7-49a2-a7ef-1461d3e35ef4" />  
+<img width="1919" height="428" alt="image" src="https://github.com/user-attachments/assets/dc0157bf-d444-436f-b061-d96734485982" />
 
 *Ejemplo #2*
 <img width="1919" height="433" alt="image" src="https://github.com/user-attachments/assets/82538f8b-51d6-42c1-934e-672bef45e8a6" />
